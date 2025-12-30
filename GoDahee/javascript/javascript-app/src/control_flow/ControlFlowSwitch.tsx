@@ -1,5 +1,5 @@
 export const ControlFlowSwitch = () => {
-    let grade = Math.floor(Math.random() * 5) + 1
+    let grade = Math.floor(Math.random() * 5.3) + 1
     let gradename
 
     switch (grade) {
