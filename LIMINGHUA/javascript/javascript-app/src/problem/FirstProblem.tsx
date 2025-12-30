@@ -17,7 +17,7 @@ export const FirstProblem = () => {
 
     return (
         <div>
-            <h3>javascript 제어문 (if)</h3>
+            <h3>javascript 첫 번째 퀴즈 (if)</h3>
             
             <pre>{
                 // esc키 아래 물결 (~) 부분을 쉬프트 키 누르지 않고 찍으면 백틱
