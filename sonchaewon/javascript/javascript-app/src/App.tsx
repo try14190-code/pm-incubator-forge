@@ -5,6 +5,8 @@ import { LogicalOperationExample } from './logical_operation/LogicalOperationExa
 import { ControlFlowIf } from './control_flow/ControlFlowIf'
 import { FirstProblem } from './problem/FirstProblem'
 import { ControlFlowSwitch } from './control_flow/ControlFlowSwitch'
+import { ControlFlowFor } from './control_flow/ControlFlowFor'
+import { ControlFlowSummation } from './control_flow/ControlFlowSummation'
 
 function App() {
  
@@ -20,6 +22,8 @@ function App() {
         <ControlFlowIf/>
         <FirstProblem/>
         <ControlFlowSwitch/>
+        <ControlFlowFor/>
+        <ControlFlowSummation/>
        </div>
     </>
   )
